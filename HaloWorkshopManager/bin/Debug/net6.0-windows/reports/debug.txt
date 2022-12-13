@@ -1,0 +1,21 @@
+
+
+12.11.22 15:57:44  halo1 pc 01.03.43.0000 ----------------------------------------------
+12.11.22 15:57:44  e:\jenkins\workspace\mcch1code-release\mcc\release\h1\code\h1a2\sources\rasterizer\dx9\rasterizer_dx9_shaders_vshader9.c(128): <unknown error> in DELAYED_CALL(D3DCompileFromFile)(filename, NULL, D3D_COMPILE_STANDARD_FILE_INCLUDE, "main", "vs_5_0", 0, 0, &code, &errors) (code=-2147024893, error=<can't get description>)
+12.11.22 15:57:44  Failed to load vertex shader: s
+12.11.22 15:57:44  ### ERROR rasterizer_shaders_update failed: success = success && rasterizer_dx9_shaders_vshader9_update()
+12.11.22 15:57:44  ### ERROR failed to initialize rasterizer
+
+
+12.11.22 15:58:55  halo1 pc 01.03.43.0000 ----------------------------------------------
+12.11.22 15:58:55  e:\jenkins\workspace\mcch1code-release\mcc\release\h1\code\h1a2\sources\rasterizer\dx9\rasterizer_dx9_shaders_vshader9.c(128): <unknown error> in DELAYED_CALL(D3DCompileFromFile)(filename, NULL, D3D_COMPILE_STANDARD_FILE_INCLUDE, "main", "vs_5_0", 0, 0, &code, &errors) (code=-2147024893, error=<can't get description>)
+12.11.22 15:58:55  Failed to load vertex shader: s
+12.11.22 15:58:55  ### ERROR rasterizer_shaders_update failed: success = success && rasterizer_dx9_shaders_vshader9_update()
+12.11.22 15:58:55  ### ERROR failed to initialize rasterizer
+
+
+12.11.22 15:59:11  halo1 pc 01.03.43.0000 ----------------------------------------------
+12.11.22 15:59:11  e:\jenkins\workspace\mcch1code-release\mcc\release\h1\code\h1a2\sources\rasterizer\dx9\rasterizer_dx9_shaders_vshader9.c(128): <unknown error> in DELAYED_CALL(D3DCompileFromFile)(filename, NULL, D3D_COMPILE_STANDARD_FILE_INCLUDE, "main", "vs_5_0", 0, 0, &code, &errors) (code=-2147024893, error=<can't get description>)
+12.11.22 15:59:11  Failed to load vertex shader: s
+12.11.22 15:59:11  ### ERROR rasterizer_shaders_update failed: success = success && rasterizer_dx9_shaders_vshader9_update()
+12.11.22 15:59:11  ### ERROR failed to initialize rasterizer

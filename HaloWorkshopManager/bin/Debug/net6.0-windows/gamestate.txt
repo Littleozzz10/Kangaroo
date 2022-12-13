@@ -1,0 +1,104 @@
+header;null;6448
+gamestate allocation;null;4
+game globals;null;6392
+random math;globals;8
+game time globals;null;44
+game allegiance globals;null;228
+players;data;8784
+players globals;null;348
+player control globals;null;760
+player training globals;globals;1768
+game engine globals;null;4196
+physics constants;null;28
+widget;data;852
+antenna;data;8480
+cloth;data;37648
+liquid;data;17492
+device groups;data;12492
+lights;data;95320
+lights globals;null;12
+light;cluster references;2048
+cluster light reference;data;24908
+light cluster reference;data;24908
+object;data;24908
+objects;memory pool;1048652
+object globals;null;132
+object name list;null;2560
+collideable object;cluster references;2048
+cluster collideable object reference;data;65900
+collideable object cluster reference;data;24908
+noncollideable object;cluster references;2048
+cluster noncollideable object reference;data;65900
+noncollideable object cluster reference;data;24908
+object early movers;null;7560
+object scripting;null;772
+kill trigger volume state;null;36
+cached object render states;data;65644
+weather scripting;null;24
+breakable surface breakable_surface_globals;null;16900
+director scripting;null;4
+scripted camera globals;null;120
+observer globals;null;20
+decals;data;82124
+decal globals;null;15404
+contrail;data;18540
+contrail point;data;57548
+effect;data;206988
+effect location;data;61644
+particle_system;data;10844
+particles;data;65740
+particle_emitter;data;19564
+particle_location;data;13420
+sound classes;null;1728
+deterministic game sound globals;null;6272
+object looping sounds;data;32972
+game sound globals;null;580
+game sound player effects globals;null;40
+vibration;null;556
+player effects;null;688
+hud scripted globals;null;4
+hud messaging;null;4936
+hud nav points;null;576
+motion sensor (radar);sensor data;3016
+new hud globals;globals;564
+first person weapons;null;33776
+first person weapon orientations;null;32784
+pause screen objectives;null;20
+cinematic globals;null;44
+game incidents globals;null;4
+object list header;data;660
+list object reference;data;1628
+hs thread;data;500596
+hs globals;data;25036
+recorded animations;data;248
+object placement globals;null;4
+ai globals;null;884
+ai player state globals;null;56
+actor;data;565356
+ai_reference_frame;null;1600
+actor firing-position owners;hash_table;8252
+swarm;data;1744
+swarm_spawner;null;400
+prop;data;48236
+prop_ref;data;61644
+tracking;data;28892
+squad;data;51040
+squad group;data;5692
+orders activations;null;32
+clump;data;1680
+joint state;data;3840
+dynamic firing points;data;17420
+command scripts;data;8564
+joint command scripts;data;1480
+vocalization timers;null;4024
+vocalization records;data;1340
+scenes played;null;16
+flocks;data;480
+grave mind;null;36
+havok gamestate;null;4
+havok shape globals;null;8000
+visibility active portals;null;64
+scenario interpolator globals;null;516
+game save globals;null;4
+ice cream flavor globals;null;4
+game campaign results stat globals;null;16256

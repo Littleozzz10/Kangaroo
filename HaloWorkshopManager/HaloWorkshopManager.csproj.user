@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DirectoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MapInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PictureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RunToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TextboxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

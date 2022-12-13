@@ -1,0 +1,3 @@
+D:\Halo Mods\Workshop
+C:\Program Files (x86)\Steam\steam.exe
+D:\SteamLibrary\steamapps\common
