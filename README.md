@@ -6,6 +6,8 @@ True, Steam *does* let you manage Workshop content, but it's pretty barebones an
 Note: This manager is *not* a replacement for the Steam Workshop, nor will it work for MCC modding on the Microsoft Store version of the game.
 This program isn't perfect, especially when interacting with Steam itself. Also, as it's built on Windows Forms, the program only natively runs on Windows 7 and higher. No Linux/Steam OS support.
 
+See the Getting Started and FAQ pages in the wiki for information on how to use Kangaroo
+
 ## Features
 - Dedicated management of Master Chief Collection mods, with the ability to view properties and maps in each installed mod.
 - Basic backup features, allowing you to backup your entire folder of Workshop mods
